@@ -1,5 +1,10 @@
-## Hi there 👋
+![Howdy!](https://github.com/hadleyrose/gifs/blob/be915fd305bdb7ee7753fadd74316d5d86212c6b/howdy_gif.gif)
 
+Hi there! I'm **[Hadley](http://hadleyrose.io)**, a full-time caffeinator, wanna-be writer, and lover of code and cartoons alike.
+
+When I'm not digging deep into spreadsheets or jamming on [my (Notion) planner](https://raw.githubusercontent.com/hadleyrose/webby/2f85451ce6a3720173ddf87d8aa0a610ef8a0a7b/public/assets/images/JamminPlanner.png), you can find me at the nearest bookstore or cinema or cozied up with my [furballs](https://raw.githubusercontent.com/hadleyrose/webby/2f85451ce6a3720173ddf87d8aa0a610ef8a0a7b/public/assets/images/CagneyBanner.png) and family in front of the TV.
+
+Get to know me on socials or reach out via email.
 <!--
 **hadleyrose/hadleyrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
